@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 My Portfolio [https://perosnal-protfolio.netlify.app/](https://perosnal-protfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://perosnal-protfolio.netlify.app/](https://jitenderwebdev.netlify.app/)
 
 - 📝 I write articles on [https://hashnode.com/](https://hashnode.com/)
 
